@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varshanayanar
 - 👀 I’m interested in exploring new technologies
-- 🌱 I’m currently learning more about data structures and algorithmns
+- 🌱 I’m currently learning more about data structures, algorithmns + React 
 - 📫 How to reach me at varsha.nayanar@gmail.com
 
 <!---
